@@ -15,4 +15,4 @@
 ### 📬 मलाई सम्पर्क गर्नुहोस् (Connect with Me)
 
 * **Email:** [shakya.mahes@gmail.com](mailto:shakya.mahes@gmail.com)
-* **Website:** [shakya-portal.pages.dev](https://pages.dev)
+* **Website:** [shakyamahesh.com.np](https://shakyamahesh.com.np/)
