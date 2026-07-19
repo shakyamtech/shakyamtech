@@ -40,7 +40,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shakyamtech&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="Mahesh's GitHub stats" width="48%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakyamtech&theme=github_dark" alt="Mahesh's GitHub stats" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakyamtech&theme=dark&hide_border=true" alt="Mahesh's streak stats" width="48%" />
 </p>
 
