@@ -8,10 +8,6 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakyamtech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1" width="49%" />
 
 <br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakyamtech&theme=github_dark" width="85%" />
-
-<br/><br/>
 ---
 <br/>
 
