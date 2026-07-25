@@ -1,71 +1,200 @@
-# नमस्ते 🙏, म महेश शाक्य (Mahesh Shakya) 👋
-### Multidisciplinary Professional | Web & Mobile Apps Developer | Graphic Designer | Video Editor | Accountant | Computer Instructor
+<div align="center">
+
+<!-- Dynamic Typing SVG -->
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%F0%9F%99%8F+%7C+Mahesh+Shakya;Full+Stack+Developer+%E2%80%A2+Nepal+%F0%9F%87%B3%F0%9F%87%B5" alt="Typing SVG" /></a>
+
+<br/>
+
+<!-- Subtitle badges -->
+<img src="https://img.shields.io/badge/Web_%26_Mobile_Apps-Developer-6366F1?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Graphic_%26_UI/UX-Designer-8B5CF6?style=for-the-badge&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Video_Editor_%26-Videographer-A855F7?style=for-the-badge&labelColor=0D1117" />
+
+<br/><br/>
+
+<!-- Social Links -->
+<a href="https://shakyamahesh.com.np/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-shakyamahesh.com.np-6366F1?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://wa.me/9779851180556" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-Chat_Now-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+<a href="mailto:shakya.mahes@gmail.com"><img src="https://img.shields.io/badge/Email-shakya.mahes@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/mahesh-shakya-nepal" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+
+<br/>
+
 📍 **Lagankhel, Buspark, Lalitpur, Nepal**
 
-<p align="left">
-  <a href="https://shakyamahesh.com.np/" target="_blank">🌐 Official Website</a> • 
-  <a href="https://wa.me/9779851180556" target="_blank">💬 WhatsApp Direct</a> • 
-  <a href="mailto:shakya.mahes@gmail.com">✉️ Email Me</a>
-</p>
+</div>
 
 ---
 
-### 🌟 About Me & Specialties
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakyamtech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=A1A1AA&langs_count=8" width="330" />
 
-A multidisciplinary professional bridging the gap between **software development**, **digital design**, **financial accounting**, and **cinematic visual storytelling**:
+### 🧑‍💻 About Me
 
-- 💻 **Web & Mobile Apps Developer**: Building high-performance, responsive full-stack applications using **React 19**, **Next.js 16 (App Router)**, **TypeScript**, **Tailwind CSS**, **Node.js**, **Supabase**, and **Firebase Admin SDK**.
-- 🎨 **Graphic & UI/UX Designer**: Designing brand logos, digital marketing assets, and modern user interfaces using **Figma**, **Adobe Photoshop**, and **Illustrator**.
-- 🎬 **Video Editor & Videographer**: Producing 4K cinematic videos, aerial drone tracking shots, and motion graphics using **Adobe Premiere Pro** and **After Effects**.
-- 📊 **Accountant & Book Keeper**: Expert in daily transaction recording, inventory tracking, stock maintenance, daybook, journal, balance sheet, and P&L statements (Creator of **KhataPlus**).
-- 📚 **Computer Classes Instructor**: Teaching web development, IT skills, and computer application courses at Lagankhel IT Academy / Microsoft Silverlight Institute.
+A multidisciplinary professional bridging the gap between **software development**, **digital design**, **financial accounting**, and **cinematic visual storytelling**.
 
----
+- 💻 Building full-stack apps with **React**, **Next.js**, **TypeScript** & **Python**
+- 🎨 Designing brand identities with **Figma** & **Adobe Creative Suite**
+- 🎬 Producing cinematic videos with **Premiere Pro** & **After Effects**
+- 📊 Creator of **KhataPlus** — accounting software for SMEs
+- 📚 Teaching at **Microsoft Silverlight Institute**, Lagankhel
 
-### 🛠️ Tech Stack & Creative Gear
-
-#### Web Development & Mobile
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-
-#### Designing, Video & Production Toolkit
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe_Premiere_Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
+<br clear="right"/>
 
 ---
 
-### 🚀 Featured Systems & Projects
+### 🛠️ Tech Stack
 
-- 📈 **[KhataPlus](https://github.com/shakyamtech/KhataPlus)** - Comprehensive Accounting Software & Bookkeeping System for all retail, clinics, hardware, and educational sectors.
-- 🎓 **[LMS Platform](https://github.com/shakyamtech/LMS-Learning-Mgmt-System)** - Next.js 16 + Firebase Admin SDK Edu-Tech Learning Management System with RBAC dashboards.
-- 💎 **[Shree Krishna Jyasa Pasa](https://github.com/shakyamtech/Shree-krishna-Jyasa-Pasa)** - Automated Jewellery Management System with real-time gold/silver pricing & stock tracking.
-- 🛒 **[Sabzi Mandi](https://github.com/shakyamtech/Sabzi-Mandi)** - Online fresh grocery & vegetable ordering PWA web app.
-- ⌨️ **[Nepali Typeshala](https://github.com/shakyamtech/Nepali-Typeshala)** - Interactive typing practice platform for Nepali language learners.
+<table>
+<tr>
+<td align="center" width="110"><b>Frontend</b></td>
+<td>
+<img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Backend</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Firebase-039BE5?style=flat-square&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+<img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+</td>
+</tr>
+<tr>
+<td align="center"><b>Design</b></td>
+<td>
+<img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
+<img src="https://img.shields.io/badge/-Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white" />
+<img src="https://img.shields.io/badge/-Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white" />
+<img src="https://img.shields.io/badge/-Premiere_Pro-9999FF?style=flat-square&logo=adobepremierepro&logoColor=white" />
+<img src="https://img.shields.io/badge/-After_Effects-9999FF?style=flat-square&logo=adobeaftereffects&logoColor=white" />
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 GitHub Activity & Coding Streak
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakyamtech&theme=github_dark" alt="Mahesh's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shakyamtech&theme=dark&hide_border=true" alt="Mahesh's streak stats" width="48%" />
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏥 [Hospital OPD Management](https://github.com/shakyamtech/Hospital-OPD-Management)
+Complete hospital system with patient records, doctor appointments, pharmacy, billing & prescriptions.
+
+`JavaScript` `Python` `Firebase` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📈 [KhataPlus](https://github.com/shakyamtech/KhataPlus)
+Comprehensive accounting & bookkeeping software for retail, clinics, hardware & education sectors.
+
+`TypeScript` `React` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🎓 [LMS Platform](https://github.com/shakyamtech/LMS-Learning-Mgmt-System)
+Next.js + Firebase Admin SDK Edu-Tech LMS with role-based dashboards, courses & student tracking.
+
+`TypeScript` `Next.js` `Firebase`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💎 [Jewellery Management](https://github.com/shakyamtech/Shree-krishna-Jyasa-Pasa)
+Automated jewellery shop system with real-time gold/silver pricing, stock & customer management.
+
+`TypeScript` `React` `Supabase`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🛒 [Sabzi Mandi](https://github.com/shakyamtech/Sabzi-Mandi)
+Fresh vegetable & grocery ordering PWA with product catalog, cart system & delivery tracking.
+
+`TypeScript` `React` `Vite`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🐾 [Lyka Nepal](https://github.com/shakyamtech/lyka-nepal)
+E-commerce business platform with product listings, brand showcase & shopping features.
+
+`TypeScript` `React` `Vite`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍜 Restaurant Management
+Restaurant ordering & kitchen management with menu builder, POS billing & table reservations.
+
+`TypeScript` `React` `Node.js`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🈴 Mangal Sensei
+Interactive Japanese language learning platform with Hiragana/Katakana lessons & quizzes.
+
+`JavaScript` `Vite`
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📬 Contact & Location
-- 📍 **Location**: Lagankhel, Buspark, Lalitpur, Kathmandu, Nepal
-- 🌐 **Portfolio**: [shakyamahesh.com.np](https://shakyamahesh.com.np/)
-- ✉️ **Email**: shakya.mahes@gmail.com
-- 💬 **WhatsApp**: [+977 9851180556](https://wa.me/9779851180556)
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=shakyamtech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=8B5CF6&text_color=A1A1AA&ring_color=6366F1" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shakyamtech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1" width="49%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shakyamtech&theme=github_dark" width="85%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+Building something interesting? Let's collaborate!
+
+<a href="https://shakyamahesh.com.np/"><img src="https://img.shields.io/badge/🌐_Portfolio-shakyamahesh.com.np-6366F1?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://shakyamtech.github.io"><img src="https://img.shields.io/badge/📦_Projects-shakyamtech.github.io-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
+<a href="https://wa.me/9779851180556"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&labelColor=0D1117" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=shakyamtech&style=flat-square&color=6366F1&label=Profile+Views" />
+
+</div>
