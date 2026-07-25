@@ -185,16 +185,6 @@ Interactive Japanese language learning platform with Hiragana/Katakana lessons &
 
 <div align="center">
 
-### 🤝 Let's Connect
-
-Building something interesting? Let's collaborate!
-
-<a href="https://shakyamahesh.com.np/"><img src="https://img.shields.io/badge/🌐_Portfolio-shakyamahesh.com.np-6366F1?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="https://shakyamtech.github.io"><img src="https://img.shields.io/badge/📦_Projects-shakyamtech.github.io-8B5CF6?style=for-the-badge&labelColor=0D1117" /></a>
-<a href="https://wa.me/9779851180556"><img src="https://img.shields.io/badge/💬_WhatsApp-Chat_Now-25D366?style=for-the-badge&labelColor=0D1117" /></a>
-
-<br/><br/>
-
 <img src="https://komarev.com/ghpvc/?username=shakyamtech&style=flat-square&color=6366F1&label=Profile+Views" />
 
 </div>
