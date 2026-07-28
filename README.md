@@ -1,7 +1,11 @@
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,git&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=js,ts,py,php,laravel,django,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,git&theme=dark&perline=15" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Filament_PHP-D97706?style=flat-square&logo=laravel&logoColor=white" />
 </p>
 
 <p align="center">
