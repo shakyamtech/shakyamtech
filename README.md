@@ -1,14 +1,8 @@
-### 🛠️ Tech Stack & Tools
-
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,git&theme=dark" />
   </a>
 </p>
-
----
-
-### 📊 GitHub Activity & Stats
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=shakyamtech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1" height="165" />
