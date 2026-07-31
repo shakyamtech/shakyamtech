@@ -1,7 +1,5 @@
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,py,php,laravel,django,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,git&theme=dark&perline=15" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=js,ts,py,php,laravel,django,react,vite,tailwind,nodejs,express,mongodb,mysql,postgres,git&theme=dark&perline=15" />
 </p>
 
 <p align="center">
