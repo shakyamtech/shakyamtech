@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="#">
-    <img src="https://streak-stats.demolab.com/?user=shakyamtech&theme=tokyonight&hide_border=true&background=0D1117&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B" height="165" />
+    <img src="https://streak-stats.demolab.com/?user=shakyamtech&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=A855F7&currStreakLabel=6366F1" height="165" />
   </a>
 </p>
 
